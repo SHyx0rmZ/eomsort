@@ -1,0 +1,8 @@
+[Plugin]
+Module=eomsort
+IAge=2
+Name=Sort images by modified date
+Icon=view-fullscreen
+Description=Sort images by modified date
+Authors=Patrick Pokatilo <eom@shyxormz.net>
+Copyright=Copyright © 2021 Patrick Pokatilo
